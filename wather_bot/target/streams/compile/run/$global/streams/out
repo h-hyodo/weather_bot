@@ -1,5 +1,4 @@
-[0m[[0minfo[0m] [0mRunning example.Hello [0m
-[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0minfo[0m] [0mRunning example.Hello 1 2 34[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
 [0m[[0mdebug[0m] [0m	/Users/izumo02010/Desktop/scala/weather_bot/wather_bot/target/scala-2.12/classes[0m
 [0m[[0mdebug[0m] [0m	/Users/izumo02010/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.12.1.jar[0m
@@ -12,6 +11,7 @@
 [0m[[0mdebug[0m] [0m	/Users/izumo02010/.ivy2/cache/org.skinny-framework/skinny-http-client_2.12/jars/skinny-http-client_2.12-2.3.3.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/izumo02010/.ivy2/cache/org.skinny-framework/skinny-micro-common_2.12/jars/skinny-micro-common_2.12-1.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/Users/izumo02010/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.22.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
 [0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
 [0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m

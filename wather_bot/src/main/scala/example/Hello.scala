@@ -3,6 +3,7 @@ package example
 import org.json4s._
 import org.json4s.JsonDSL._
 import org.json4s.native.JsonMethods._
+import skinny.http._
 
 object Hello extends Greeting with App {
 
@@ -22,12 +23,10 @@ object Hello extends Greeting with App {
             (("winner-id" -> w.id) ~
               ("numbers" -> w.numbers))}))
 
-  var strJson = "{\"lotto\":{\"lotto-id\":5,\"winning-numbers\":[2,45,34,23,7,5,3],\"winners\":[{\"winner-id\":23,\"numbers\":[2,45,34,23,3,5]},{\"winner-id\":54,\"numbers\":[52,3,12,11,18,22]}]}}"
+  var res = HTTP.get("http://weather.livedoor.com/forecast/webservice/json/v1", "city" -> 130010)
 
-
-
-  println(greeting)
-  println(compact(render(json)))
+  println(res.asString)
+  args.foreach(println(_))
 }
 
 trait Greeting {
