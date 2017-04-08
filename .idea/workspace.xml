@@ -1,70 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="28c31584-e242-4b56-adf2-189c84fdce56" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$6.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$7.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$8.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$$anonfun$root$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88.cache" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/project/target/config-classes/$f4aff39f690abbe8bb88.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello$Lotto$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello$Lotto.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello$Winner$.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello$Winner.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Greeting.class" afterPath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Greeting.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello$.class" afterPath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello$.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello.class" afterPath="$PROJECT_DIR$/wather_bot/target/scala-2.12/classes/example/Hello.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/streams/$global/update/$global/streams/out" afterPath="$PROJECT_DIR$/wather_bot/target/streams/$global/update/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterPath="$PROJECT_DIR$/wather_bot/target/streams/$global/update/$global/streams/update_cache_2.12/output" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" afterPath="$PROJECT_DIR$/target/streams/compile/run/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/.idea/modules/root-build.iml" afterPath="$PROJECT_DIR$/wather_bot/.idea/modules/root-build.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/.idea/modules/root.iml" afterPath="$PROJECT_DIR$/wather_bot/.idea/modules/root.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/.idea/workspace.xml" afterPath="$PROJECT_DIR$/wather_bot/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" afterPath="$PROJECT_DIR$/wather_bot/project/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.10" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/src/main/scala/example/Hello.scala" afterPath="$PROJECT_DIR$/wather_bot/src/main/scala/example/Hello.scala" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello$sources_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello$sources_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello$sources_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello$sources_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello_2.12/0.1.0-SNAPSHOT/resolved.xml.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/com.example/hello_2.12/0.1.0-SNAPSHOT/resolved.xml.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-compile.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-docs.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-optional.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-plugin.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-pom.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-provided.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-runtime.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-sources.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-test.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello$sources_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-compile-internal.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-compile-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-compile.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-compile.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-docs.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-docs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-optional.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-optional.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-plugin.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-plugin.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-pom.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-provided.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-provided.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-runtime-internal.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-runtime-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-runtime.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-runtime.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-scala-tool.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-scala-tool.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-sources.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-sources.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-test-internal.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-test-internal.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-test.xml" afterPath="$PROJECT_DIR$/wather_bot/target/resolution-cache/reports/com.example-hello_2.12-test.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/streams/$global/updateClassifiers/$global/streams/out" afterPath="$PROJECT_DIR$/wather_bot/target/streams/$global/updateClassifiers/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/streams/compile/compileIncremental/$global/streams/out" afterPath="$PROJECT_DIR$/wather_bot/target/streams/compile/compileIncremental/$global/streams/out" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" afterPath="$PROJECT_DIR$/wather_bot/target/streams/compile/incCompileSetup/$global/streams/inc_compile_2.12" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wather_bot/target/streams/compile/run/$global/streams/out" afterPath="$PROJECT_DIR$/wather_bot/target/streams/compile/run/$global/streams/out" />
-    </list>
+    <list default="true" id="28c31584-e242-4b56-adf2-189c84fdce56" name="Default" comment="" />
     <ignored path="weather_bot.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
