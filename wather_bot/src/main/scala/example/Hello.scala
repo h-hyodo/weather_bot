@@ -7,26 +7,21 @@ import skinny.http._
 
 object Hello extends Greeting with App {
 
-  case class Winner(id: Long, numbers: List[Int])
-  case class Lotto(id: Long, winningNumbers: List[Int], winners: List[Winner], drawDate: Option[java.util.Date])
-
-  val winners = List(Winner(23, List(2, 45, 34, 23, 3, 5)), Winner(54, List(52, 3, 12, 11, 18, 22)))
-  val lotto = Lotto(5, List(2, 45, 34, 23, 7, 5, 3), winners, None)
-
-  val json =
-    ("lotto" ->
-      ("lotto-id" -> lotto.id) ~
-        ("winning-numbers" -> lotto.winningNumbers) ~
-        ("draw-date" -> lotto.drawDate.map(_.toString)) ~
-        ("winners" ->
-          lotto.winners.map { w =>
-            (("winner-id" -> w.id) ~
-              ("numbers" -> w.numbers))}))
+  implicit val formats = DefaultFormats
+  case class PinpointLocations(link: String, name: String)
+  case class Dscription(text: String, publicTime: String)
+  case class Wather(publicTime: String, title: String, description: Dscription, pinpointLocations : List[PinpointLocations])
 
   var res = HTTP.get("http://weather.livedoor.com/forecast/webservice/json/v1", "city" -> 130010)
+  var json = parse(res.asString)
+  val watcher = json.extract[Wather]
 
-  println(res.asString)
-  args.foreach(println(_))
+  //val sendJson : String = compact(render(("text" -> ("渋江だよ" + "\n\n" + watcher.title + "\n\n" + watcher.description.text))))
+  val sendJson : String = compact(render(("text" -> ("https://suzumi.github.io/all-archives/"))))
+
+  val req = Request("https://hooks.slack.com/services/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").body(sendJson.getBytes, "application/json")
+  HTTP.post(req)
+
 }
 
 trait Greeting {
